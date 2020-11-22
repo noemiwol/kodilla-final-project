@@ -1,2 +1,4 @@
 rootProject.name = 'kodilla-final-project'
+include 'kodilla-final-project-REST-Api-test'
+include 'kodilla-final-project-selenium-test'
 
